@@ -1,0 +1,7 @@
+{
+  "name": "camishi-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
